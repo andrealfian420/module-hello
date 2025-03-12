@@ -6,4 +6,4 @@
 
 - untuk rilis versi pada git
 - jalankan git tag v-nomor.versi.rilis
-- contoh `git tag v-1.0.0`
+- contoh `git tag v1.0.0` terus push `git push --tags`
