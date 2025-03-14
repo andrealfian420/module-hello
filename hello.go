@@ -5,3 +5,7 @@ package modulehello
 func Greeting() string {
 	return "Howdy!"
 }
+
+func GreetByName(name string) string {
+	return "Howdy" + name + "!"
+}
